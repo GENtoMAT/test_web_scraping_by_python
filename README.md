@@ -1,0 +1,2 @@
+# test_web_scraping_by_python
+自己学習のために作成したPythonによるWebスクレイピングアプリです。
