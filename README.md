@@ -27,7 +27,7 @@ Googleアカウント認証を使ったデータ収集: 既存のプロファイ
 
 - 開発PC: Windows 10 Home
 - コードエディタ: VScode
-- リンター＆フォーマッター: Black, Ruff 
+- リンター＆フォーマッター: Ruff, Black
 
 ## その他
 
