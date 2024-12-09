@@ -1,0 +1,4 @@
+Please set your 2 json files below in this folder 
+    settings.json
+    your_GCP_API_credential.json
+

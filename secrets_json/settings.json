@@ -1,0 +1,7 @@
+{
+    "googleOAuthWinUserName" : "",    
+    "googleOAuthProfileDir" : "",
+    "gspshiId": "1sIsZ_p2TX8NDjCeEsz0YY3Q0WeWnOeQgvKQKUZHIrng",
+    "sheetName" : "sampleWebScraping",
+    "credentialJsonPath" : "../../secrets_json/your_GCP_API_credential.json"
+}
