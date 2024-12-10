@@ -1,6 +1,11 @@
 # test_web_scraping_by_python
 自己学習のために作成したPython、seleniumuによるWebスクレイピングアプリです（秘匿情報は配慮して公開しております）。
 
+## URL
+
+サンプルのスプレッドシート：https://docs.google.com/spreadsheets/d/1sIsZ_p2TX8NDjCeEsz0YY3Q0WeWnOeQgvKQKUZHIrng/edit?gid=1634617248#gid=1634617248
+
+
 ## 簡単な説明
 
 このツールはPythonとSeleniumを用いて開発されたWebスクレイピングツールです。任意のサイトのHTML要素からスプレッドシートに効率よくデータを収集できます。
